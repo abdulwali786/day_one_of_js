@@ -7,7 +7,7 @@
 
 run("ahsan","mahsan@gmail.cm")
  
-var arr = [1,2,3]
+var arr = [132123123,123.234545]
 
 for (let index = 0; index < array.length; index++) {
     const element = array[index];
