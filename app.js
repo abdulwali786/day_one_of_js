@@ -23,6 +23,6 @@ console.log("outside ",num1);
 let num1 = 123123
 console.log(num1);
 num1 = 24
-console.log(num1);
+console.log(num1,"ahsan");
 
 
